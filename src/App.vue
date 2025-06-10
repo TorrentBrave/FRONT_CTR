@@ -14,11 +14,13 @@
    h-screen text-white p-5 flex overflow-hidden"
   >
     <!-- 左 -->
-		<div></div>
+		<div class="flex-1 mr-5 bg-slate-800/50 p-3
+    flex flex-col"></div>
     <!-- 中 -->
-		<div></div>
+		<div class="w-1/2 mr-5 flex flex-col"></div>
     <!-- 右 -->
-		<div></div>
+		<div class="flex-1 bg-slate-800/50 p-3
+    flex flex-col"></div>
 	</div>
 </template>
 
